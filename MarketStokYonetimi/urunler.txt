@@ -1,0 +1,59 @@
+Tam Bugday Ekmegi,15.0,0,Unlu Mamuller,869001,2025-12-08
+Yarim Yagli Sut,9.216000000000001,12,Sut Urunleri,869002,2025-12-15
+Koy Yumurtasi 30lu,110.0,60,Kahvaltilik,869003,2025-12-20
+Rize Turist Cayi 1kg,145.9,106,Icecek,869004,2027-01-01
+Tavuk Gogsu,73.72800000000001,12,Et Urunleri,869006,2025-12-09
+Osmancik Pirinc 2.5kg,160.0,30,Bakliyat,869007,2026-06-15
+Kirmizi Mercimek,45.0,18,Bakliyat,869008,2026-08-20
+Nohut 1kg,55.0,40,Bakliyat,869009,2026-09-10
+Domates Salcasi,85.0,0,Konserve,869010,2027-02-01
+Aycicek Yagi 5L,230.0,55,Yaglar,869011,2026-12-30
+Zeytinyagi 1L,350.0,25,Yaglar,869012,2026-11-15
+Toz Seker 5kg,190.0,80,Temel Gida,869013,2028-01-01
+Tuz 500gr,12.5,200,Temel Gida,869014,2028-01-01
+Makarna Burgu,18.0,15,Makarna,869015,2026-05-10
+Makarna Spagetti,18.0,10,Makarna,869016,2026-05-10
+Un 5kg,95.0,65,Temel Gida,869017,2026-04-20
+Siyah Zeytin 1kg,140.0,35,Kahvaltilik,869018,2026-03-15
+Yesil Zeytin,120.0,40,Kahvaltilik,869019,2026-03-20
+Kasar Peyniri 700gr,210.0,14,Sut Urunleri,869020,2026-01-10
+Beyaz Peynir,160.0,25,Sut Urunleri,869021,2026-01-05
+Tereyagi 250gr,90.0,19,Sut Urunleri,869022,2026-02-01
+Labne Peynir,45.0,50,Sut Urunleri,869023,2026-01-15
+Yogurt 3kg,110.0,0,Sut Urunleri,869024,2025-12-18
+Muz Yerli,14.336000000000002,60,Manav,869025,2025-12-10
+Elma Starking,25.0,100,Manav,869026,2025-12-25
+Portakal,20.0,150,Manav,869027,2026-01-01
+Patates,18.0,300,Manav,869028,2026-01-15
+Sogan,16.0,250,Manav,869029,2026-01-20
+Salatalik,12.288000000000004,40,Manav,869030,2025-12-09
+Camasir Suyu 4L,120.0,15,Temizlik,869031,2027-05-01
+Bulasik Deterjani,45.0,80,Temizlik,869032,2027-06-15
+Camasir Deterjani 10kg,450.0,19,Temizlik,869033,2027-08-01
+Yuzey Temizleyici,35.0,5,Temizlik,869034,2027-04-10
+Kagit Havlu 12li,140.0,45,Kagit Urunleri,869035,2028-01-01
+Tuvalet Kagidi 32li,220.0,12,Kagit Urunleri,869036,2028-01-01
+Sivi Sabun 4L,85.0,22,Kisisel Bakim,869037,2027-03-01
+Sampuan Mentollu,95.0,6,Kisisel Bakim,869038,2026-12-01
+Dis Macunu,75.0,100,Kisisel Bakim,869039,2026-11-01
+Dis Fircasi,35.0,80,Kisisel Bakim,869040,2028-01-01
+Cikolatali Gofret,8.5,500,Atistirmalik,869041,2026-06-01
+Misir Cipsi,35.0,40,Atistirmalik,869042,2026-05-20
+Kola 2.5L,45.0,150,Icecek,869043,2026-02-15
+Meyve Suyu Seftali,30.0,18,Icecek,869044,2026-04-01
+Salgam Suyu,25.0,11,Icecek,869045,2026-03-10
+Turk Kahvesi 100gr,35.0,85,Icecek,869046,2026-09-01
+Filtre Kahve,180.0,13,Icecek,869047,2026-08-15
+Kedi Mamasi 1.5kg,250.0,15,Evcil Hayvan,869048,2026-12-01
+Kopek Mamasi,300.0,8,Evcil Hayvan,869049,2026-12-01
+Bulasik Sungeri,15.0,60,Temizlik,869050,2028-01-01
+Cop Poseti Buyuk,40.0,45,Temizlik,869051,2028-01-01
+Aluminyum Folyo,65.0,30,Mutfak Gerecleri,869052,2028-01-01
+Strec Film,50.0,35,Mutfak Gerecleri,869053,2028-01-01
+Pil AA 4lu,80.0,100,Elektronik,869054,2029-01-01
+Tiras Kopugu,90.0,16,Kisisel Bakim,869055,2027-01-01
+Deodorant Erkek,150.0,25,Kisisel Bakim,869056,2027-02-01
+Deodorant Kadin,150.0,28,Kisisel Bakim,869057,2027-02-01
+Islak Mendil,25.0,200,Kisisel Bakim,869058,2026-10-01
+Bebek Bezi 4 Numara,350.0,4,Bebek Urunleri,869059,2027-05-01
+Bebek Mamasi,280.0,9,Bebek Urunleri,869060,2026-04-15

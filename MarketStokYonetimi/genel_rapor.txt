@@ -1,0 +1,67 @@
+=== DETAYLI MARKET STOK RAPORU ===
+Tarih: 2025-12-08
+
+ÜRÜN            | STOK       | BİRİM FİYAT | TOPLAM DEĞER   
+-------------------------------------------------------------
+Tam Bugday Ekmegi | 0          | 15,00      TL | 0,00            TL
+Yarim Yagli Sut | 12         | 22,50      TL | 270,00          TL
+Koy Yumurtasi 30lu | 60         | 110,00     TL | 6600,00         TL
+Rize Turist Cayi 1kg | 106        | 145,90     TL | 15465,40        TL
+Tavuk Gogsu     | 12         | 180,00     TL | 2160,00         TL
+Osmancik Pirinc 2.5kg | 30         | 160,00     TL | 4800,00         TL
+Kirmizi Mercimek | 18         | 45,00      TL | 810,00          TL
+Nohut 1kg       | 40         | 55,00      TL | 2200,00         TL
+Domates Salcasi | 0          | 85,00      TL | 0,00            TL
+Aycicek Yagi 5L | 55         | 230,00     TL | 12650,00        TL
+Zeytinyagi 1L   | 25         | 350,00     TL | 8750,00         TL
+Toz Seker 5kg   | 80         | 190,00     TL | 15200,00        TL
+Tuz 500gr       | 200        | 12,50      TL | 2500,00         TL
+Makarna Burgu   | 15         | 18,00      TL | 270,00          TL
+Makarna Spagetti | 10         | 18,00      TL | 180,00          TL
+Un 5kg          | 65         | 95,00      TL | 6175,00         TL
+Siyah Zeytin 1kg | 35         | 140,00     TL | 4900,00         TL
+Yesil Zeytin    | 40         | 120,00     TL | 4800,00         TL
+Kasar Peyniri 700gr | 14         | 210,00     TL | 2940,00         TL
+Beyaz Peynir    | 25         | 160,00     TL | 4000,00         TL
+Tereyagi 250gr  | 19         | 90,00      TL | 1710,00         TL
+Labne Peynir    | 50         | 45,00      TL | 2250,00         TL
+Yogurt 3kg      | 0          | 110,00     TL | 0,00            TL
+Muz Yerli       | 60         | 35,00      TL | 2100,00         TL
+Elma Starking   | 100        | 25,00      TL | 2500,00         TL
+Portakal        | 150        | 20,00      TL | 3000,00         TL
+Patates         | 300        | 18,00      TL | 5400,00         TL
+Sogan           | 250        | 16,00      TL | 4000,00         TL
+Salatalik       | 40         | 30,00      TL | 1200,00         TL
+Camasir Suyu 4L | 15         | 120,00     TL | 1800,00         TL
+Bulasik Deterjani | 80         | 45,00      TL | 3600,00         TL
+Camasir Deterjani 10kg | 19         | 450,00     TL | 8550,00         TL
+Yuzey Temizleyici | 5          | 35,00      TL | 175,00          TL
+Kagit Havlu 12li | 45         | 140,00     TL | 6300,00         TL
+Tuvalet Kagidi 32li | 12         | 220,00     TL | 2640,00         TL
+Sivi Sabun 4L   | 22         | 85,00      TL | 1870,00         TL
+Sampuan Mentollu | 6          | 95,00      TL | 570,00          TL
+Dis Macunu      | 100        | 75,00      TL | 7500,00         TL
+Dis Fircasi     | 80         | 35,00      TL | 2800,00         TL
+Cikolatali Gofret | 500        | 8,50       TL | 4250,00         TL
+Misir Cipsi     | 40         | 35,00      TL | 1400,00         TL
+Kola 2.5L       | 150        | 45,00      TL | 6750,00         TL
+Meyve Suyu Seftali | 18         | 30,00      TL | 540,00          TL
+Salgam Suyu     | 11         | 25,00      TL | 275,00          TL
+Turk Kahvesi 100gr | 85         | 35,00      TL | 2975,00         TL
+Filtre Kahve    | 13         | 180,00     TL | 2340,00         TL
+Kedi Mamasi 1.5kg | 15         | 250,00     TL | 3750,00         TL
+Kopek Mamasi    | 8          | 300,00     TL | 2400,00         TL
+Bulasik Sungeri | 60         | 15,00      TL | 900,00          TL
+Cop Poseti Buyuk | 45         | 40,00      TL | 1800,00         TL
+Aluminyum Folyo | 30         | 65,00      TL | 1950,00         TL
+Strec Film      | 35         | 50,00      TL | 1750,00         TL
+Pil AA 4lu      | 100        | 80,00      TL | 8000,00         TL
+Tiras Kopugu    | 16         | 90,00      TL | 1440,00         TL
+Deodorant Erkek | 25         | 150,00     TL | 3750,00         TL
+Deodorant Kadin | 28         | 150,00     TL | 4200,00         TL
+Islak Mendil    | 200        | 25,00      TL | 5000,00         TL
+Bebek Bezi 4 Numara | 4          | 350,00     TL | 1400,00         TL
+Bebek Mamasi    | 9          | 280,00     TL | 2520,00         TL
+-------------------------------------------------------------
+TOPLAM ÜRÜN ADEDİ : 3587
+DÜKKANIN TOPLAM DEĞERİ: 210025,40 TL
